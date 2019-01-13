@@ -166,6 +166,7 @@ Estudos de programaço funcional maneiros.
 - [Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
 - [Category Theory](https://en.wikiLivros.org/wiki/Haskell/Category_theory)
 - [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
+- [Escape from the ivory tower: the Haskell journey - Simon Peyton Jones](https://www.youtube.com/watch?v=re96UgMk6GQ)
 
 #### Cursos
 
@@ -183,6 +184,9 @@ Estudos de programaço funcional maneiros.
 - [HaskellBook](http://haskellbook.com/)
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
     - Building a modern functional compiler from first principles.
+- [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell)
+- [Parallel and Concurrent Programming in Haskell](http://shop.oreilly.com/product/0636920026365.do)
+- [Programming in Haskell - Graham Hutton](https://www.amazon.com/Programming-Haskell-Graham-Hutton/dp/0521692695)
 
 ## Scala
 
