@@ -285,6 +285,9 @@ Aquele curso do cousera
 
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition)
+- [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition)
+- [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition)
 
 ## Common Lisp
 
